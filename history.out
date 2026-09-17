@@ -1,0 +1,5 @@
+    1  passwd
+    2  stat ~/my_cat >> ~/stat.out
+    3  stat $(which cat) >> ~/stat.out
+    4  stat /home/user1 > ~/stat.out
+    5  history > ~/history.out

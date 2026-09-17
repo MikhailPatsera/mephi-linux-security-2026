@@ -1,0 +1,4 @@
+    0  1000 root     fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+    0  1000 root     su - user1
+    0  1234 root     su -
+    0  1234 root     su - user
